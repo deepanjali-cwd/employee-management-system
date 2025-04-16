@@ -26,6 +26,5 @@ The system has following basic features -
 1. Clone the repository:
    ```bash
 
-   git clone https://github.com/deepanjali-cwd/employee-management-system-java.git
-
+   https://github.com/deepanjali-cwd/employee-management-system.git
    
